@@ -1,0 +1,22 @@
+:root {
+    --background: url('https://raw.githubusercontent.com/DJ-JR30/BetterDiscord/57a99ebecfafb32d9a8d8b75de4aaabc8da1efd3/Images/Moon_Mountain.jpg');
+    --background-clr: rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+/* ----- Start of Code | Background ----- */
+.app-2CXKsg>.bg-1QIAus {
+    background: var(--background) !important;
+    background-size: cover !important;
+}
+
+.theme-dark {
+    --background-modifier-hover: var(--background-clr);
+    --background-secondary: var(--background-clr);
+    --background-primary: var(--background-clr);
+    --background-tertiary: var(--background-clr);
+}
+
+/* ------ End of Code | Background ------ */
